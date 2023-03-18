@@ -1,0 +1,9 @@
+body {
+  font-family: "Segoe UI";
+  box-sizing: border-box;
+}
+img {
+  box-sizing: border-box;
+  width: 50%;
+  height: 50%;
+}
